@@ -194,7 +194,7 @@ Halaman sudah dioptimalkan untuk:
 ## 📞 Support
 
 Untuk bantuan teknis atau pertanyaan:
-- Email: support@mhteams.com
+- Email: contactmhteams@gmail.com
 - Documentation: [Link dokumentasi]
 - Issues: [Repository issues]
 
